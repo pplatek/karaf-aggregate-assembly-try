@@ -29,6 +29,7 @@
     </parent>
 
     <artifactId>aggregate-features</artifactId>
+    <name>Test Aggregate :: Aggregator</name>
     <packaging>feature</packaging>
 
     <properties>

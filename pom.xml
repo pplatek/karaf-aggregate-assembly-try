@@ -18,7 +18,7 @@
 	<groupId>test</groupId>
 	<artifactId>test-aggregate-features</artifactId>
 	<version>1.0-SNAPSHOT</version>
-
+	<name>Test Aggregate</name>
 	<packaging>pom</packaging>
 
 	<description>Test Description</description>
@@ -36,7 +36,8 @@
 		<module>aggregate-recursive-module-c</module>
 		<module>aggregate-recursive-module-d</module>
 		<module>aggregate-features</module>
-	</modules>
+<!-- 		<module>aggregate-assembly-try</module>
+ -->	</modules>
 
 	<build>
 		<plugins>

@@ -28,9 +28,8 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <groupId>test</groupId>
     <artifactId>aggregate-recursive-module-c</artifactId>
-    <version>1.0-SNAPSHOT</version>
+	<name>Test Aggregate :: Module C</name>
 
     <packaging>bundle</packaging>
 
