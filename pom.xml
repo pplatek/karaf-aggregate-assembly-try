@@ -36,8 +36,8 @@
 		<module>aggregate-recursive-module-c</module>
 		<module>aggregate-recursive-module-d</module>
 		<module>aggregate-features</module>
-<!-- 		<module>aggregate-assembly-try</module>
- -->	</modules>
+		<module>aggregate-assembly-try</module>
+	</modules>
 
 	<build>
 		<plugins>
